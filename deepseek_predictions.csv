@@ -1,0 +1,37 @@
+document_id,entity_text,label
+brexit_ru.txt_file_1000,Борис Джонсон,PER
+brexit_ru.txt_file_1000,Дэвид Дэвис,PER
+brexit_ru.txt_file_1000,Стив Бейкер,PER
+brexit_ru.txt_file_1000,Тереза Мэй,PER
+brexit_ru.txt_file_1000,Великобритания,LOC
+brexit_ru.txt_file_1000,Соединенного Королевства,LOC
+brexit_ru.txt_file_1000,ЕС,ORG
+brexit_ru.txt_file_1000,The Guardian,ORG
+brexit_ru.txt_file_1000,УНН,ORG
+brexit_ru.txt_file_1000,британский парламент,ORG
+brexit_ru.txt_file_1000,МИД,ORG
+brexit_ru.txt_file_1000,Brexit,EVT
+brexit_ru.txt_file_1011,Борис Джонсон,PER
+brexit_ru.txt_file_1011,Тереза Мэй,PER
+brexit_ru.txt_file_1011,Великобритания,LOC
+brexit_ru.txt_file_1011,ЕС,ORG
+brexit_ru.txt_file_1011,The Guardian,ORG
+brexit_ru.txt_file_1011,Дэвид Дэвис,PER
+brexit_ru.txt_file_1011,Палата общин,ORG
+brexit_ru.txt_file_1011,Евросоюз,ORG
+brexit_ru.txt_file_1011,Brexit,EVT
+brexit_ru.txt_file_1011,29 марта,EVT
+brexit_ru.txt_file_1004,Борис Джонсон,PER
+brexit_ru.txt_file_1004,ТАСС,ORG
+brexit_ru.txt_file_1004,Тереза Мэй,PER
+brexit_ru.txt_file_1004,Дэвид Дэвис,PER
+brexit_ru.txt_file_1004,Великобритания,LOC
+brexit_ru.txt_file_1004,МИД Великобритании,ORG
+brexit_ru.txt_file_1004,Евросоюз,ORG
+brexit_ru.txt_file_1004,ЕС,ORG
+brexit_ru.txt_file_1004,Германия,LOC
+brexit_ru.txt_file_1004,Польша,LOC
+brexit_ru.txt_file_1004,Лондон,LOC
+brexit_ru.txt_file_1004,Западные Балканы,LOC
+brexit_ru.txt_file_1004,Консервативная партия,ORG
+brexit_ru.txt_file_1004,Brexit,EVT
